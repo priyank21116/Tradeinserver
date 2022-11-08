@@ -6,4 +6,4 @@ This is backend of ecommerce Tradeins. Provide api for Users to login, add items
 - MongoDB
 
 
-![website demo](../../radeins/src/images/demo.mp4)
+![website demo](/demogif.gif)
